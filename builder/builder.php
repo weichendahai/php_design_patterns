@@ -15,7 +15,7 @@ abstract class Builder { // 建造者抽象类
 class ConcreteBuilder extends Builder { // 具体建造者
     private $_product;
     public function __construct() { $this->_product = new Product(); }
-    public function buildPart1() { $this->_product->add("Part1"); } 
+    public function buildPart1() { $this->_product->add("Part1"); }
     public function buildPart2() { $this->_product->add("Part2"); }
     public function getResult() { return $this->_product; }
 }

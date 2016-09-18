@@ -10,7 +10,7 @@
 建造者模式builder   
 原型模式prototype   
 
-### 二、结构型模式如下：
+### 二、七种结构型模式如下：
 适配器模式adapter    
 桥接模式bridge     
 合成模式composite    
@@ -19,7 +19,7 @@
 代理模式proxy    
 享元模式flyweight   
 
-### 三、行为型模式如下：
+### 三、十一行为型模式如下：
 策略模式strategy     
 模板方法模式template_method   
 观察者模式observer    
@@ -39,4 +39,8 @@
 单一职责原则：不要存在多于一个导致类变更的原因。通俗的说，即一个类只负责一项职责。  
 接口隔离原则：客户端不应该依赖它不需要的接口；一个类对另一个类的依赖应该建立在最小的接口上。  
 迪米特法则：一个对象应该对其他对象保持最少的了解。  # php_design_patterns
-# php_design_patterns
+
+### 备注参考：
+如何看懂uml
+http://design-patterns.readthedocs.io/zh_CN/latest/read_uml.html
+https://github.com/yunkaiyueming/php_design_patterns
