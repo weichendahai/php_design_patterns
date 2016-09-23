@@ -12,24 +12,24 @@
 
 ### 二、七种结构型模式如下：
 适配器模式adapter    
-桥接模式bridge    暂时不看 
-合成模式composite    暂时不看
+桥接模式bridge    暂时不看
+合成模式composite   类似树形结构数据，可用此模式设计;最终获得树形结构
 装饰器模式decorator    暂时不看
 门面模式facade    暂时不看
 代理模式proxy    暂时不看
 享元模式flyweight   暂时不看
 
 ### 三、十一行为型模式如下：
-策略模式strategy     
-模板方法模式template_method  一个操作中的算法的骨架，而将步骤延迟到子类中 
-观察者模式observer    一个对象变化时，通知观察她的对象；（银行呼号，屏幕显示） 
-迭代器模式decorator   很简单；就是对象数组迭代遍历 
-责任链模式responsibility_chain  一条链条；一个一个判断；看符合什么条件；然后运行  
-命令模式command  暂时不看 
-备忘录模式memento 暂时不看 (有一个游戏玩家生命值的案例)  
+策略模式strategy
+模板方法模式template_method  一个操作中的算法的骨架，而将步骤延迟到子类中
+观察者模式observer    一个对象变化时，通知观察她的对象；（银行呼号，屏幕显示
+迭代器模式decorator   很简单；就是对象数组迭代遍历
+责任链模式responsibility_chain  一条链条；一个一个判断；看符合什么条件；然后运行
+命令模式command  暂时不看
+备忘录模式memento 暂时不看 (有一个游戏玩家生命值的案例)
 状态模式state     暂时不看
-访问者模式visitor 暂时不看    
-中介者模式mediator 暂时不看  
+访问者模式visitor 暂时不看
+中介者模式mediator 暂时不看
 解释器模式interpreter  暂时不看
 
 ### 设计模式六大原则： 
