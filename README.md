@@ -12,12 +12,12 @@
 
 ### 二、七种结构型模式如下：
 适配器模式adapter    
-桥接模式bridge    暂时不看
-合成模式composite   类似树形结构数据，可用此模式设计;最终获得树形结构
-装饰器模式decorator    暂时不看
-门面模式facade    暂时不看
-代理模式proxy    暂时不看
-享元模式flyweight   暂时不看
+桥接模式bridge
+合成模式composite(类似树形结构数据，可用此模式设计;最终获得树形结构)    
+装饰器模式decorator(类似树形结构数据，可用此模式设计;最终获得树形结构)
+门面模式facade(就是将一些方法；组装一下；然后给别人调用；减轻客户端的耦合)
+代理模式proxy  (_before_action->action->_after_action, 有点像模版)
+享元模式flyweight
 
 ### 三、十一行为型模式如下：
 策略模式strategy
